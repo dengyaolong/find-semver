@@ -1,6 +1,6 @@
 {
   "name": "find-semver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Find the valid version from array of versions, filter by semver string.",
   "main": "index.js",
   "dependencies": {
