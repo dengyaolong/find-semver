@@ -18,7 +18,7 @@
   },
   "keywords": [],
   "author": "",
-  "file": "index.js",
+  "files": "index.js",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/dengyaolong/find-semver/issues"
