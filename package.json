@@ -1,0 +1,27 @@
+{
+  "name": "find-semver",
+  "version": "1.0.0",
+  "description": "Find the valid version from array of versions, filter by semver string.",
+  "main": "index.js",
+  "dependencies": {
+    "semver": "^5.5.0"
+  },
+  "devDependencies": {
+    "ava": "^0.24.0"
+  },
+  "scripts": {
+    "test": "ava test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dengyaolong/find-semver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "file": "index.js",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dengyaolong/find-semver/issues"
+  },
+  "homepage": "https://github.com/dengyaolong/find-semver#readme"
+}
