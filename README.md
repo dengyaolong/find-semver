@@ -1,2 +1,2 @@
 # find-semver
-Find the valid version from array of versions, filter by semver string.
+Notes: just use [node-semver](https://github.com/npm/node-semver) maxSatisfyin
